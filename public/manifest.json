@@ -1,16 +1,16 @@
 {
-    "name": "weather-app",
-    "short_name": "weather-app",
+    "name": "Weather now",
+    "short_name": "Weather now",
     "icons": [
         {
-            "src": "./img/icons/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
+            "src": "./img/icons/192.png",
+            "type": "image/png",
+            "sizes": "192x192"
         },
         {
-            "src": "./img/icons/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
+            "src": "./img/icons/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
         }
     ],
     "start_url": "./index.html",
